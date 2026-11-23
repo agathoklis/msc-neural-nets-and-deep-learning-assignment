@@ -1,0 +1,12 @@
+{
+  "train_rows": 4929,
+  "train_churn": 1308,
+  "train_stay": 3621,
+  "ratio_stay_per_churn": 2.768,
+  "undersample_discards": 2313,
+  "undersample_discards_share": 0.4693,
+  "smote_nc_creates": 2313,
+  "input_columns_categorical": 16,
+  "input_columns_numeric": 3,
+  "encoded_columns_binary": 23
+}

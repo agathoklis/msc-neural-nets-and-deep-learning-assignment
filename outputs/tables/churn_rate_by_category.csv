@@ -1,0 +1,44 @@
+Μεταβλητή,Κατηγορία,Πλήθος,Μερίδιο,Ποσοστό αποχώρησης
+SeniorCitizen,0,5901,0.8379,0.2361
+SeniorCitizen,1,1142,0.1621,0.4168
+gender,Female,3488,0.4952,0.2692
+gender,Male,3555,0.5048,0.2616
+Partner,No,3641,0.517,0.3296
+Partner,Yes,3402,0.483,0.1966
+Dependents,No,4933,0.7004,0.3128
+Dependents,Yes,2110,0.2996,0.1545
+PhoneService,No,682,0.0968,0.2493
+PhoneService,Yes,6361,0.9032,0.2671
+MultipleLines,No,3390,0.4813,0.2504
+MultipleLines,No phone service,682,0.0968,0.2493
+MultipleLines,Yes,2971,0.4218,0.2861
+InternetService,DSL,2421,0.3437,0.1896
+InternetService,Fiber optic,3096,0.4396,0.4189
+InternetService,No,1526,0.2167,0.074
+OnlineSecurity,No,3498,0.4967,0.4177
+OnlineSecurity,No internet service,1526,0.2167,0.074
+OnlineSecurity,Yes,2019,0.2867,0.1461
+OnlineBackup,No,3088,0.4384,0.3993
+OnlineBackup,No internet service,1526,0.2167,0.074
+OnlineBackup,Yes,2429,0.3449,0.2153
+DeviceProtection,No,3095,0.4394,0.3913
+DeviceProtection,No internet service,1526,0.2167,0.074
+DeviceProtection,Yes,2422,0.3439,0.225
+TechSupport,No,3473,0.4931,0.4164
+TechSupport,No internet service,1526,0.2167,0.074
+TechSupport,Yes,2044,0.2902,0.1517
+StreamingTV,No,2810,0.399,0.3352
+StreamingTV,No internet service,1526,0.2167,0.074
+StreamingTV,Yes,2707,0.3844,0.3007
+StreamingMovies,No,2785,0.3954,0.3368
+StreamingMovies,No internet service,1526,0.2167,0.074
+StreamingMovies,Yes,2732,0.3879,0.2994
+Contract,Month-to-month,3875,0.5502,0.4271
+Contract,One year,1473,0.2091,0.1127
+Contract,Two year,1695,0.2407,0.0283
+PaperlessBilling,No,2872,0.4078,0.1633
+PaperlessBilling,Yes,4171,0.5922,0.3357
+PaymentMethod,Bank transfer (automatic),1544,0.2192,0.1671
+PaymentMethod,Credit card (automatic),1522,0.2161,0.1524
+PaymentMethod,Electronic check,2365,0.3358,0.4529
+PaymentMethod,Mailed check,1612,0.2289,0.1911

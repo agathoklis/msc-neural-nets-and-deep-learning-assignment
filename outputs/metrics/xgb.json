@@ -1,0 +1,41 @@
+{
+  "threshold": 0.54,
+  "val": {
+    "at_0.5": {
+      "accuracy": 0.7473982970671712,
+      "precision": 0.5161290322580645,
+      "recall": 0.797153024911032,
+      "f1": 0.6265734265734266,
+      "roc_auc": 0.8356431375426496,
+      "pr_auc": 0.6327155827419763,
+      "threshold": 0.5,
+      "tn": 566,
+      "fp": 210,
+      "fn": 57,
+      "tp": 224
+    },
+    "at_tuned": {
+      "accuracy": 0.7634815515610217,
+      "precision": 0.5386533665835411,
+      "recall": 0.7686832740213523,
+      "f1": 0.6334310850439883,
+      "roc_auc": 0.8356431375426496,
+      "pr_auc": 0.6327155827419763,
+      "threshold": 0.54,
+      "tn": 591,
+      "fp": 185,
+      "fn": 65,
+      "tp": 216
+    }
+  },
+  "params": {
+    "subsample": 0.7,
+    "n_estimators": 400,
+    "min_child_weight": 20,
+    "max_depth": 2,
+    "learning_rate": 0.03,
+    "colsample_bytree": 0.6
+  },
+  "cv_roc_auc": 0.8512872150993311,
+  "imbalance_method": "class_weight"
+}

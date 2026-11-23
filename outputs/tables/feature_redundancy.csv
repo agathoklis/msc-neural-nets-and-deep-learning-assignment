@@ -1,0 +1,10 @@
+Έλεγχος,Αποτέλεσμα,Γραμμές,Τιμή
+OnlineSecurity = 'No internet service' ⇔ InternetService = 'No',True,1526,
+OnlineBackup = 'No internet service' ⇔ InternetService = 'No',True,1526,
+DeviceProtection = 'No internet service' ⇔ InternetService = 'No',True,1526,
+TechSupport = 'No internet service' ⇔ InternetService = 'No',True,1526,
+StreamingTV = 'No internet service' ⇔ InternetService = 'No',True,1526,
+StreamingMovies = 'No internet service' ⇔ InternetService = 'No',True,1526,
+MultipleLines = 'No phone service' ⇔ PhoneService = 'No',True,682,
+"R² του MonthlyCharges από τις 9 υπηρεσίες ≥ 0,99",True,7043,0.9988
+"Συσχέτιση TotalCharges με tenure × MonthlyCharges ≥ 0,99",True,7043,0.9996

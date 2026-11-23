@@ -1,0 +1,4 @@
+[tool.pytest.ini_options]
+# Η ρίζα του project στο path, ώστε τα tests να κάνουν `import src...` χωρίς εγκατάσταση πακέτου.
+pythonpath = ["."]
+testpaths = ["tests"]

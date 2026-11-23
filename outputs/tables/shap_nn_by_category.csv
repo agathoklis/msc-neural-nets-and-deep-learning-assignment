@@ -1,0 +1,21 @@
+feature,category,mean_shap,n
+tenure,"0–7,75",0.1815,125
+tenure,"27,5–55",-0.0657,127
+tenure,55–72,-0.1277,123
+tenure,"7,75–27,5",0.0726,125
+Contract,Month-to-month,0.1098,278
+Contract,One year,-0.0738,101
+Contract,Two year,-0.143,121
+MonthlyCharges,"18,7–41,3",-0.1124,125
+MonthlyCharges,"41,3–70,67",-0.0214,125
+MonthlyCharges,"70,67–89,81",0.0285,125
+MonthlyCharges,"89,81–116,8",0.0793,125
+InternetService,DSL,-0.033,160
+InternetService,Fiber optic,0.0546,236
+InternetService,No,-0.0668,104
+PaymentMethod,Bank transfer (automatic),-0.0235,117
+PaymentMethod,Credit card (automatic),-0.0173,100
+PaymentMethod,Electronic check,0.042,179
+PaymentMethod,Mailed check,-0.025,104
+OnlineSecurity,No,0.0227,352
+OnlineSecurity,Yes,-0.0433,148

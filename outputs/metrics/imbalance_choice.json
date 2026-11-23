@@ -1,0 +1,11 @@
+{
+  "method": "class_weight",
+  "best_by_pr_auc": "none",
+  "within_one_std": [
+    "none",
+    "class_weight",
+    "smote_nc",
+    "undersample"
+  ],
+  "reason": "Το μεγαλύτερο μέσο PR-AUC το έδωσε η «none» (0.6663), αλλά οι μέθοδοι ['none', 'class_weight', 'smote_nc', 'undersample'] απέχουν λιγότερο από μία τυπική απόκλιση (0.0238). Επιλέχθηκε η απλούστερη από αυτές."
+}

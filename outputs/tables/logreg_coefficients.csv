@@ -1,0 +1,26 @@
+Χαρακτηριστικό,Συντελεστής,Λόγος σχετικών πιθανοτήτων
+Contract_Month-to-month,0.8363,2.3078
+tenure,-0.754,0.4705
+MonthlyCharges,0.631,1.8796
+PhoneService_Yes,-0.6146,0.5409
+Contract_Two year,-0.568,0.5667
+TechSupport_Yes,-0.398,0.6717
+OnlineSecurity_Yes,-0.3655,0.6938
+PaymentMethod_Electronic check,0.3582,1.4308
+InternetService_Fiber optic,0.3549,1.4261
+PaperlessBilling_Yes,0.3308,1.392
+InternetService_No,-0.2331,0.7921
+Dependents_Yes,-0.181,0.8345
+OnlineBackup_Yes,-0.1186,0.8881
+SeniorCitizen,0.1088,1.1149
+StreamingMovies_Yes,0.0653,1.0675
+MultipleLines_Yes,0.031,1.0315
+StreamingTV_Yes,0.0142,1.0143
+DeviceProtection_Yes,0.0,1.0
+InternetService_DSL,0.0,1.0
+Contract_One year,0.0,1.0
+Partner_Yes,0.0,1.0
+gender_Male,0.0,1.0
+PaymentMethod_Bank transfer (automatic),0.0,1.0
+PaymentMethod_Credit card (automatic),0.0,1.0
+PaymentMethod_Mailed check,0.0,1.0

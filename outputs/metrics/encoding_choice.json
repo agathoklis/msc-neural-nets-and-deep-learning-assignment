@@ -1,0 +1,12 @@
+{
+  "variant": "merged_no_total",
+  "n_features": 25,
+  "best_by_pr_auc": "full",
+  "within_one_std": [
+    "full",
+    "merged",
+    "merged_no_total"
+  ],
+  "xgb_agrees": true,
+  "reason": "Το μεγαλύτερο μέσο PR-AUC το έδωσε η «full» (0.6683), αλλά οι παραλλαγές ['full', 'merged', 'merged_no_total'] απέχουν λιγότερο από μία τυπική απόκλιση (0.0259). Επιλέχθηκε αυτή με τα λιγότερα χαρακτηριστικά. Το XGBoost συμφωνεί (διαφορά μέσα σε μία τυπική απόκλιση)."
+}

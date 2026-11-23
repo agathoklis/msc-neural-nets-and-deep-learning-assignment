@@ -1,0 +1,22 @@
+{
+  "n_rows": 7043,
+  "n_columns": 21,
+  "n_features": 19,
+  "n_numeric": 3,
+  "n_binary": 6,
+  "n_categorical": 10,
+  "missing_before_cleaning": {
+    "TotalCharges": 11
+  },
+  "churn_count": 1869,
+  "churn_rate": 0.2653698707936959,
+  "corr_tenure_totalcharges": 0.8261783979502421,
+  "corr_totalcharges_tenure_x_monthly": 0.999560553797228,
+  "skew": {
+    "tenure": 0.2395397495619829,
+    "MonthlyCharges": -0.22052443394398008,
+    "TotalCharges": 0.963234654832277
+  },
+  "source": "IBM Telco Customer Churn sample data (μέσω Kaggle: blastchar/telco-customer-churn)",
+  "r2_monthlycharges_from_services": 0.9988400165089509
+}

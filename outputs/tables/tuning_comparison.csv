@@ -1,0 +1,5 @@
+method,Μέθοδος,best_val_auc_mean,best_val_auc_std,n_trials_mean,epochs_mean,minutes_mean,minutes_std
+random,Random Search (KerasTuner),0.8336,0.0008,49.3333,1768.6667,12.148,7.8697
+hyperband,Hyperband (KerasTuner),0.8331,0.0013,254.0,1752.0,44.7499,37.3244
+bayesian,Bayesian Optimization (KerasTuner),0.8329,0.0009,55.3333,1778.6667,15.9867,12.2543
+optuna_tpe,TPE (Optuna),0.8327,0.0004,57.0,1768.3333,3.0134,0.2764
